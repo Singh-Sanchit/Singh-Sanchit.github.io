@@ -1895,7 +1895,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 
 .projectmanager {
 	color: #fff;
-	background-image: url("../img/sections/projectmanager-bg.jpg");
+	background-image: url("../img/custom/about5.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -2419,7 +2419,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 ---------------------------------------- */
 
 .facts {
-	background: url("../img/sections/facts-bg.jpg");
+	background: url("../img/custom/about6.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -2457,7 +2457,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
 
 .newsletter {
 	color: #fff;
-	background: url("../img/sections/testimonials-bg.jpg");
+	background: url("../img/custom/home4.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -2966,7 +2966,7 @@ body.blog-page article .comments-form .custom-button:before {
 
 .videopromotion {
 	color: #fff;
-	background: url("../img/sections/video-bg.jpg");
+	background: url("../img/custom/home6.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -3110,7 +3110,7 @@ body.blog-page article .comments-form .custom-button:before {
 
 .contactform {
 	color: #fff;
-	background: url("../img/sections/contactform-bg.jpg");
+	background: url("../img/custom/contact4.jpg");
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -3210,8 +3210,13 @@ ul.bxslider img {
 	background-attachment: fixed;
 }
 
-.banner.banner-blog-post {
-	background-image: url('../img/blog/banner-blog.jpg');
+.banner.nashik {
+	background-image: url('../img/custom/nashik1.jpg');
+	background-size: initial;
+}
+
+.banner.pune {
+	background-image: url('../img/custom/pune1.png');
 	background-size: initial;
 }
 
